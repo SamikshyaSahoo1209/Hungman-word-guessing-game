@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hangman Word Guessing Game
 
 ## Project Description
@@ -40,3 +41,6 @@ Hangman is a simple word-guessing game developed using Python. The computer rand
 
 ## Conclusion
 This project helped me understand Python programming concepts such as functions, loops, conditional statements, sets, random selection, and file handling.
+=======
+# Hungman-word-guessing-game
+>>>>>>> 8dc3cdf206e2e2825ae188b81745bd8e7eceb426
